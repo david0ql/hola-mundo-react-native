@@ -15,10 +15,8 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#28c4d9',
-    flexDirection: 'row-reverse'
   },
   caja1: {
-    flex: 1,
     borderWidth: 2,
     borderColor: 'white',
     fontSize: 30,
